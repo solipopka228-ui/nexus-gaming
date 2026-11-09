@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#25131c"/><stop offset="1" stop-color="#080d18"/></linearGradient><linearGradient id="red" x2="1" y2="1"><stop stop-color="#ff5365"/><stop offset="1" stop-color="#b31332"/></linearGradient></defs>
+<rect width="640" height="300" fill="url(#bg)"/><path d="M0 245 220 25h72L72 300H0zm640-210L430 245h-72L568 0h72z" fill="#ff4655" opacity=".13"/>
+<path d="M205 62h88l-65 105-42-52 19-53zm143 0h88L327 238h-88l109-176z" fill="url(#red)"/>
+<text x="320" y="270" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="900" letter-spacing="8" text-anchor="middle">VALORANT</text>
+</svg>

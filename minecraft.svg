@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1d392e"/><stop offset="1" stop-color="#09131a"/></linearGradient></defs>
+<rect width="640" height="300" fill="url(#bg)"/><g transform="translate(320 125)">
+<path d="M-95-52 0-105 95-52 0 1z" fill="#65ad42"/><path d="M-95-52 0 1v112l-95-54z" fill="#80502e"/><path d="M95-52 0 1v112l95-54z" fill="#5b3926"/>
+<path d="m-65-57 31-17 16 9-30 18zm55-29 25-14 18 10-25 15z" fill="#8bd35a" opacity=".9"/>
+<path d="m-67-22 22 12v22l-22-12zm-3 56 22 12v22l-22-12z" fill="#6a432b"/><path d="m25 19 20-11v23L25 42zm0 52 20-11v23L25 94z" fill="#493020"/>
+</g><text x="320" y="270" fill="#fff" font-family="Arial,sans-serif" font-size="38" font-weight="900" letter-spacing="4" text-anchor="middle">MINECRAFT</text>
+</svg>
